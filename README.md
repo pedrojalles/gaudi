@@ -5,8 +5,8 @@ Gaudi - Raspberry Pi Cluster
 Gaudi is an 8 node Raspberry Pi 4 Model B cluster, being 
 comprised by 8 BCM2711 chips, that is 8 quad core Cortex-A72 
 (ARM v8) 64-bit SoC @ 1.5GHz, amounting to 32 cores with a 
-peak processing power of 12 Ghz along with 32GB of DDR3 SDRAM
-for main memory. 
+peak processing power of 12 Ghz along with 32GB of LPDDR4-3200
+SDRAM for main memory. 
 
 Here you may find instructions regarding its setup and programs 
 that may be executed on it.
