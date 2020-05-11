@@ -12,12 +12,13 @@ Here you may find instructions regarding its setup and programs
 that may be executed on it.
 
 ### Setup:
-For a setup guide, follow the instructions on the SETUP file,
-being composed of two parts: setup of all the Raspberry Pis
-and setup of the "super"computer itself.
+For a setup guide, follow the instructions on the Gaudi wiki,
+being composed of two parts: assembling the 8 Pis into a cluster,
+followed by its setup.
 
-Further documentation regarding torrenting and an easy Raspberry
-Pi seedbox setup will also be available.
+Further documentation regarding user guide, HPC applications,
+eventual troubleshooting and an easy Raspberry Pi seedbox setup 
+will also be available.
 
 
 
