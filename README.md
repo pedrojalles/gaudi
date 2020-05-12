@@ -16,7 +16,7 @@ For a setup guide, follow the instructions on the Gaudi wiki,
 being composed of two parts: assembling the 8 Pis into a cluster,
 followed by its setup.
 
-* [Gaudi Wiki](wiki)
+* [Gaudi Wiki](https://github.com/pedrojalles/gaudi/wiki)
 
 Further documentation regarding user guide, HPC applications,
 eventual troubleshooting and an easy Raspberry Pi seedbox setup 
