@@ -16,6 +16,8 @@ For a setup guide, follow the instructions on the Gaudi wiki,
 being composed of two parts: assembling the 8 Pis into a cluster,
 followed by its setup.
 
+* [Gaudi Wiki](wiki)
+
 Further documentation regarding user guide, HPC applications,
 eventual troubleshooting and an easy Raspberry Pi seedbox setup 
 will also be available.
@@ -25,9 +27,9 @@ will also be available.
 
 ### Relevant references:
 
-Raspberry Pi 4 Model B technical specifications:
+Raspberry Pi 4 Model B technical specifications:<br />
 https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/
 
-Slurm Documentation:
+Slurm Documentation:<br />
 https://slurm.schedmd.com/documentation.html
 
